@@ -17,3 +17,9 @@ Meu grupo pegou o tema games e fizemos um trabalho com a inovação 4.0;
 <https://github.com/mcclarameloro/aulaMarkdown/tree/patch-2>
 
 ### Nessa atividade nós trabalhamos de forma individual, aprendendo como usar as ferramentas do github. 
+
+
+
+
+
+
