@@ -1,4 +1,5 @@
 
+
 # GIT 
 
 # Git é um projeto de código aberto maduro e mantido ativamente, desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. Um grande número de projetos de software depende do Git para controle de versão, incluindo projetos comerciais e de código aberto. Os desenvolvedores que usaram Git são uma parte significativa do conjunto de talentos de desenvolvimento de software disponíveis e podem trabalhar bem em uma variedade de sistemas operacionais e IDEs *(ambientes de desenvolvimento integrados).
